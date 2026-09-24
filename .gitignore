@@ -1,10 +1,18 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Ignore everything
+*
 
-# Virtual environments
-.venv
+# But don't ignore directories
+!*/
+
+# Track project files
+!.gitignore
+!README.md
+!pyproject.toml
+!uv.lock
+!main.py
+
+# Track R, Python, and Jupyter files under Summer-2026
+!Summer-2026/
+!Summer-2026/**/*.R
+!Summer-2026/**/*.ipynb
+!Summer-2026/**/*.py
