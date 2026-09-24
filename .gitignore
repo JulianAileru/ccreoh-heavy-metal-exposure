@@ -16,3 +16,6 @@
 !Summer-2026/**/*.R
 !Summer-2026/**/*.ipynb
 !Summer-2026/**/*.py
+# Track Info 
+!Info/
+!Info/Abstract (ST002118) - 08.18.26.docx
