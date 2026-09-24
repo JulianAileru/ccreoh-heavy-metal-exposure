@@ -19,7 +19,7 @@
           Ethnicity + Household Income
     - Filtering Approach: Apply FDR correction with cutoff q = 0.2 for Metals-MWAS, then for the Outcome Models do not apply a cutoff.
 ## Gordon Conference 
-  - Abstract Submitted and Accepted: Abstract Link
+  - Abstract Submitted and Accepted: [Abstract](<Info/Abstract (ST002118) - 08.18.26>)
 ## Further Analysis
   - Prediction Task?
   - WQS Regression (looking at combined effect of metals?) 
